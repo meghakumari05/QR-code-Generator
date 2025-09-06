@@ -1,5 +1,5 @@
 # QR CODE GENERATOR
-We can generate code for any name , number or url.
+A simple QR Code Generator where you can make and download QR codes in seconds for links, text, and more.
 
 ## TECHNOLOGIES USESD 
 React js 
